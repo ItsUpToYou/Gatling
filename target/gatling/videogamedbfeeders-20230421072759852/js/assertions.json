@@ -1,0 +1,10 @@
+{
+  "simulation": "videogamedb.feeders.VideoGameDbFeeders",
+  "simulationId": "videogamedbfeeders-20230421072759852",
+  "start": 1682062080346,
+  "description": "test",
+  "scenarios": ["***************** VIDEO GAME DB - SECTION 6 code (CSV Feeder)***************"],
+  "assertions": [
+
+  ]
+}

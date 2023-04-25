@@ -1,0 +1,10 @@
+{
+  "simulation": "videogamedb.scriptfundamentals.VideoGameDB",
+  "simulationId": "videogamedb-20230420131843426",
+  "start": 1681996723920,
+  "description": "test",
+  "scenarios": ["=====Video Game DB - Section with Variables====="],
+  "assertions": [
+
+  ]
+}
